@@ -1,0 +1,3 @@
+# kentung
+
+testing lenna tresholding 
